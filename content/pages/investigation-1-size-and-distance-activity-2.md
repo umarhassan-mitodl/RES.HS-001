@@ -4,6 +4,8 @@ description: Students observe everyday objects, and take their own images of obj
   to explore the factors which affect how large they look in an image taken by a digital
   camera.
 draft: false
+hide_download: true
+hide_download_original: null
 title: 'Investigation 1: Size and Distance - Activity 2'
 uid: ecba92d9-b465-4db2-8e62-f3ae11248eeb
 ---
