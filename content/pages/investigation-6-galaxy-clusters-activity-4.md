@@ -4,6 +4,8 @@ description: Students undertake a simple guided analysis of galaxy cluster Abell
   and learn to use the NASA Extragalactic Database to determine redshifts (and therefore
   distances) to galaxy clusters.
 draft: false
+hide_download: true
+hide_download_original: null
 title: 'Investigation 6: Galaxy Clusters - Activity 4'
 uid: 39b20dfd-1430-4d4c-a4a3-9d2568883c85
 ---

@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-hs-001-chandra-astrophysics-institute/lNPpRWKVFqI_transcript.pdf
 file_size: 40076
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
